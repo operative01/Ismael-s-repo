@@ -1,0 +1,41 @@
+[{
+  "_id": {
+    "$oid": "668bbcfefc30fcc5579d8748"
+  },
+  "Title": "Gebruikte Vurenhouten Balken +/-7,5 x 19,5 - 460cm",
+  "Description": "Nette partij gebruikte vuren houten balken. De balken zijn voor diverse toepassingen te gebruiken zoals constructiehout voor balklagen en hout voor bekistingen. Afmeting:Breedte: 19,5 cmHoogte: 7,5 cmLengte: 460 cm \nNummer: 10567\nPrijs is per stuk en ve",
+  "Price": "€ 36,00",
+  "Product Details": {
+    "description": "Nette partij gebruikte vuren houten balken. De balken zijn voor diverse toepassingen te gebruiken zoals constructiehout voor balklagen en hout voor bekistingen.  Afmeting: Breedte: 19,5 cm Hoogte: 7,5 cm Lengte: 460 cm  \n Nummer: 10567 \n Prijs is per stuk en verzenden is mogelijk."
+  },
+  "Specs": [
+    {
+      "Spec": "Artikelnummer",
+      "Value": "10387"
+    },
+    {
+      "Spec": "Lengte ± (cm)",
+      "Value": "460"
+    },
+    {
+      "Spec": "FSC® gecertificeerd",
+      "Value": "Is mogelijk"
+    },
+    {
+      "Spec": "Afwerking",
+      "Value": "Ruw"
+    },
+    {
+      "Spec": "Prijs is per",
+      "Value": "Stuk"
+    },
+    {
+      "Spec": "Verzendkosten (€)",
+      "Value": "240"
+    },
+    {
+      "Spec": "Verzendopties",
+      "Value": "Ophalen of verzenden"
+    }
+  ]
+}]
